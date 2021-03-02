@@ -1,9 +1,7 @@
 name: demo
 channels:
   - conda-forge
-  - theochem
 dependencies:
-  - iodata
   - nglview
   - nodejs
   - qcelemental
