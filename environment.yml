@@ -2,9 +2,9 @@ name: demo
 channels:
   - conda-forge
 dependencies:
-  - nglview
   - nodejs
   - qcelemental
   - openbabel
   - pip:
+      - nglview
       - py3Dmol
