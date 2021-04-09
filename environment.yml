@@ -2,6 +2,7 @@ name: demo
 channels:
   - conda-forge
 dependencies:
+  - jupyter_packaging
   - qcelemental
   - openbabel
   - pip
