@@ -2,7 +2,7 @@ name: demo
 channels:
   - conda-forge
 dependencies:
-  - jupyter_packaging
+  - jupyter-packaging  # shouldn't be needed
   - qcelemental
   - openbabel
   - pip
