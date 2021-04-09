@@ -4,6 +4,7 @@ channels:
 dependencies:
   - qcelemental
   - openbabel
+  - pip
   - pip:
-      - nglview
+      - nglview>=3.0.0
       - py3Dmol
