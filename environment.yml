@@ -2,10 +2,9 @@ name: demo
 channels:
   - conda-forge
 dependencies:
-  - jupyter-packaging  # shouldn't be needed
   - qcelemental
   - openbabel
   - pip
   - pip:
-      - nglview>=3.0.0
+      - nglview>=3.0.1
       - py3Dmol
